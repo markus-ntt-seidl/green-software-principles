@@ -33,11 +33,10 @@ Taking this training will give you enough information to:
 
 Proposed sections should be discussed as a public GH discussion, where the group can collaborate.
 
-- Introduction
-- Carbon
-- Electricity
-- Carbon Intensity
-- Embodied Carbon
-- Networking
-- Neutralisations
-- Measurement
+- [Introduction](https://github.com/Green-Software-Foundation/principles/discussions/1)
+- [Carbon](https://github.com/Green-Software-Foundation/principles/discussions/3)
+- [Electricity](https://github.com/Green-Software-Foundation/principles/discussions/4)
+- [Carbon Intensity](https://github.com/Green-Software-Foundation/principles/discussions/5)
+- [Embodied Carbon](https://github.com/Green-Software-Foundation/principles/discussions/6)
+- [Neutralisations](https://github.com/Green-Software-Foundation/principles/discussions/7)
+- [Measurement](https://github.com/Green-Software-Foundation/principles/discussions/8)
