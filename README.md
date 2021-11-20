@@ -13,7 +13,7 @@ Taking this training will give you enough information to:
 ## Characteristics of this training
 
 - We assume the reader has no experience at all in sustainability
-- We assume the reader has a basic (university) level understanding of computing. 
+- We assume the reader has an entry level understanding of computing. 
 - This training is generic, for everyone, any field, and sector, any technology. This is the 101 training everyone takes, future trainings might be created which are more specific e.g. cloud, but this training doesn't exclude anyone. It's for everyone, which means by necessity it has to be higher level and more generic.
 
 
