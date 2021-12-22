@@ -19,7 +19,7 @@ This project has been identified to fall under the Community working group.
 * Content writer help
 
 ## Deliverables and Timeline
-OKRs for Q1 to Q2 2022
+OKRs for Q1 & Q2 2022
 
 Objective: Green Software Engineering Principles revised to incorporate new ideas, findings and research
 Key Results:
@@ -35,6 +35,7 @@ Key Result:
 
 ## Project Milestone dates?
 Q1.	GSE Principles second revision consistency reviewed and published on https://principles.green/
-Q2	GSE Principles second revision delivered by at least 3 different organisations 
-Q3	Certification path of GSE Principles defined
 
+Q2	GSE Principles second revision delivered by at least 3 different organisations 
+
+Q3	Certification path of GSE Principles defined
