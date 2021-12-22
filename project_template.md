@@ -20,6 +20,7 @@ This project has been identified to fall under the Community working group.
 
 ## Deliverables and Timeline
 OKRs for Q1 to Q2 2022
+
 Objective: Green Software Engineering Principles revised to incorporate new ideas, findings and research
 Key Results:
 1.	100% of the principles have at least 3 learning objectives. 
