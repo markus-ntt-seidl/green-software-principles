@@ -33,7 +33,7 @@ Key Result:
 2.	1K complete the principles every month.
 3.	1 talk a month given related to the principles.
 
-## Project Milestone dates?
+## Project Milestone dates
 Q1.	GSE Principles second revision consistency reviewed and published on https://principles.green/
 
 Q2	GSE Principles second revision delivered by at least 3 different organisations 
