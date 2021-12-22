@@ -11,7 +11,7 @@ Specifically there is a requirement to extend knowledge in the sections on carbo
 * Asim Hussain
 
 ## Structure
-The project is structured by regular meetings and managed with emails and github. 
+The project is structured by regular meetings and managed with emails and GitHub. 
 This project has been identified to fall under the Community working group. 
 
 ## Required Resources
