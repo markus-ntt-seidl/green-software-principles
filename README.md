@@ -1,5 +1,6 @@
 # Principles of Green Software Engineering
 
+## Scope
 The original Principles of Green Software Engineering located at https://principles.green was created in 2019. As the field of GSE has evolved the need to update the principles has also evolved.
 
 Specifically there is a requirement to extend knowledge in the sections on carbon, electricity, carbon intensity and embodied carbon and add sections on neutralisations as well as update the measurement section to discuss the SCI.
@@ -40,6 +41,9 @@ Proposed sections should be discussed as a public GH discussion, where the group
 - [Embodied Carbon](https://github.com/Green-Software-Foundation/principles/discussions/6)
 - [Neutralisations](https://github.com/Green-Software-Foundation/principles/discussions/7)
 - [Measurement](https://github.com/Green-Software-Foundation/principles/discussions/8)
+
+## Appointments
+Chair Sarah Hsu - Goldman Sacs
 
 ## Copyright
 Innovation WG projects are copyrighted under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
