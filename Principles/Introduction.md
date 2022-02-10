@@ -1,6 +1,4 @@
-V1- https://principles.green/
-
-Introduction
+### Introduction
 
 Green Software Engineering is an emerging discipline at the intersection of climate science, software practices and architecture, electricity markets, hardware and data center design.
 
@@ -16,5 +14,8 @@ These eight principles form a shared understanding of what it means to be a Gree
 
 Through the synthesis of this knowledge, a Green Software Engineer can make decisions which have a meaningful impact on the carbon pollution of their applications.
 
-Who should read this? 
+#### Who should read this? 
 Anyone building, deploying or managing applications.
+
+Reference
+- V1: https://principles.green/
