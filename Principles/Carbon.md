@@ -1,4 +1,5 @@
-V1 - https://principles.green/principles/carbon/ 
+### Carbon 
+Build applications that are carbon efficient
 
 Greenhouse gases (GHG) act as a blanket increasing the temperature on the surface of the Earth. This is a natural phenomenon however due to man-made carbon pollution; the global climate is changing much faster than animals and plants can adapt. How human society will adapt is still an open question.
 
@@ -15,3 +16,6 @@ Net-zero means for each gram of carbon we emit we also extract 1 gram, so the ov
 In order to achieve this, we need to mobilize as a global community. We need to start immediately reducing our carbon emissions with the goal of a 45% reduction by 2030 and to reach net-zero by 2050.
 
 To be carbon efficient is to minimize the amount of carbon emitted per unit of work.
+
+Reference
+- V1: https://principles.green/principles/carbon/ 
