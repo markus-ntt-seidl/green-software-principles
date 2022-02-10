@@ -8,12 +8,13 @@ The Principles of Green Software Engineering are a core set of competencies need
 
 These eight principles form a shared understanding of what it means to be a Green Software Engineer independent of:
 
-Application domain.
-Industry.
-Organization size or type.
-Cloud vendor or self-hosted.
-Programming language or framework.
+- Application domain.
+- Industry.
+- Organization size or type.
+- Cloud vendor or self-hosted.
+- Programming language or framework.
+
 Through the synthesis of this knowledge, a Green Software Engineer can make decisions which have a meaningful impact on the carbon pollution of their applications.
 
-Who should read this?permalink
+Who should read this? 
 Anyone building, deploying or managing applications.
