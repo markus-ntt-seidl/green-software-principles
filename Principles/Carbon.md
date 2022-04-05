@@ -12,8 +12,10 @@ Build applications that are carbon efficient
 - How is weather related to climate? [Knowledge]
 - How would you summarise the impact of humans on the climate? [Comprehension]
 - Do we need green house gases? [Application]
-- What is the green house gas protocol? [Knowledge]
-- In which scope does the energy consumed by a mobile app sit? [Comprehension]
+- What is the Green House Gas Protocol [Knowledge]
+- If you are a cloud application, which GHG scope does your energy consumption fall into? [Comprehension]
+- If you are a mobile application, which GHG scope does your energy consumption fall into? [Comprehension]
+- Discuss the pros and cons of an attributional model and a consequential model for measuring emissions? [Evaluation]
 
 ### Introduction
 
