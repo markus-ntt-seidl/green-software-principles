@@ -80,7 +80,7 @@ The [Greenhouse Gas Protocol](https://ghgprotocol.org) is the most widely used a
 
 The GHG Protocol divides emissions into 3 scopes:
 
-* Scope 1: Direct emissions related to on-site fuel combustion or fleet vehicles;
+* Scope 1: Direct emissions from operations owned or controlled by the reporting organisation, such as on-site fuel combustion or fleet vehicles.
 * Scope 2: Indirect emissions related to emission generation of purchased energy, such as heat and electricity;
 * Scope 3: Other indirect emissions from all the other activities you are engaged in. Including all emissions from an organization's supply chain, business travel for employees, and the electricity customers may consume when using your product.
 
