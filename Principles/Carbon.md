@@ -70,6 +70,14 @@ We also need greenhouses gases in our everyday lives. For example CO<sub>2</sub>
 
 The earth has had many different compositions of greenhouse gases in its history, and natural fluctuation does occur over time (millennia). This is often referred to as climate change, whereas global warming is separated out as the human influenced factor which has taken place over a very short period of time (decades).
 
+### Software and carbon
+
+We will always emit carbon through our activities; our goal is for each gram of carbon we emit into the atmosphere to make sure we extract the most value from it as possible.
+
+To be carbon-efficient is to minimize the amount of carbon emitted per unit of work.
+
+In the software space, the part we play in the climate solution is building applications that are carbon-efficient. Being carbon-efficient is about building applications that add the same value for you or your users, but emit less carbon.
+
 ## Summary
 
 Carbon is often used as a broad term to refer to the impact of our activities on global warming. The term really refers to all greenhouse gases, but the most common of these is carbon dioxide released from burning hydrocarbon fossil fuels for the generation of energy. We can use this knowledge to calculate our individual impact on global warming. It is important to understand our impact on global warming in everything we do in our life and work in order to reduce our impacts. The global community has come together to limit the impact of global warming to 2°C compared to 'pre-industrial' levels, with a 'preferable' lower limit of 1.5°C. This was agreed through the UN IPCC in 2015 in the Paris Climate Agreement.
