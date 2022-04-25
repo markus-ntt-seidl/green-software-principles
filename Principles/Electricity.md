@@ -26,6 +26,10 @@ Build applications that are energy efficient
 
 ## Introduction
 
+Most people think electricity is clean. When we plug something into a wall, our hands don't become dirty, and our laptops don't need exhaust pipes. However, the truth is that most electricity is produced through burning fossil fuels — [usually coal](https://ourworldindata.org/grapher/world-electricity-by-source) — and energy supply is the [single most significant](https://www.eea.europa.eu/data-and-maps/daviz/change-of-co2-eq-emissions-2#tab-chart_4) cause of carbon emission.
+
+Since we can draw a direct line from electricity to carbon emissions, electricity can be considered one of the proxies for carbon.
+
 All software, from the applications running on mobile phones to the training of machine learning models running in data centres, consumes electricity in its execution. One of the best ways to reduce electricity consumption and the subsequent emissions of carbon pollution made by software is to make applications more energy efficient.
 
 The software creators often do not have to bear the burden of their software's electricity, which economists call an externality, i.e. someone else's problem. Green software takes responsibility for its electricity and is architected to consume as little as possible.
@@ -36,7 +40,7 @@ Energy is the ability to do work. There are many different forms of energy, such
 
 ## Electricity
 
-Most electricity is still produced by burning fossil fuels and is responsible for 49% of the carbon emitted into the atmosphere. Fossil fuels are decomposing plants and animals containing carbon and hydrogen found in the Earth's crust, for instance, coal, oil, and natural gas. Clean energy comes from renewable, zero*emission sources that do not pollute the atmosphere when used and energy saved by energy efficiency measures. There are overlaps between clean, green and renewable energy. Here's how we can differentiate between them:
+Most electricity is still produced by burning fossil fuels. Fossil fuels are decomposing plants and animals containing carbon and hydrogen found in the Earth's crust, for instance, coal, oil, and natural gas. Clean energy comes from renewable, zero*emission sources that do not pollute the atmosphere when used and energy saved by energy efficiency measures. There are overlaps between clean, green and renewable energy. Here's how we can differentiate between them:
 * Clean energy = clean air
 * Green energy = sources from nature
 * Renewable energy = recyclable sources
@@ -47,7 +51,9 @@ A simple yet effective way to measure the energy consumption of an application i
 
 ## Power usage effectiveness
 
-The data centre industry uses power usage effectiveness (PUE), developed by Green Grid in 2006, to measure data centre energy efficiency, specifically, how much energy the computing equipment uses in contrast to cooling and other overhead supporting the equipment. Computing gets to use nearly all energy when a data centre's PUE is close to 1.0. When PUE is 2.0, an additional watt of IT power is required to cool and distribute power to the IT equipment for every watt of IT power. 
+The data center industry uses power usage effectiveness (PUE), developed by Green Grid in 2006, to measure data center energy efficiency, specifically, how much energy the computing equipment uses in contrast to cooling and other overhead supporting the equipment. Computing uses nearly all energy when a data center's PUE is close to 1.0. When PUE is 2.0, an additional watt of IT power is required to cool and distribute power to the IT equipment for every watt of IT power. 
+
+Another way to think of PUE is as a multiplier to your application energy consumption to get the actual consumption from the grid. So, for example, if your application consumed 10 kWh and the PUE of the data center where it is running is 1.5, then the actual consumption from the grid is 15 kWh, 5kWh goes towards the operational overhead of the data center, and 10 kWh goes to the servers that are running your application.
 
 ## Energy proportionality
 
@@ -59,7 +65,7 @@ The relationship between power and utilisation is not proportional. Mathematical
 
 Because of this, the more we utilise a computer, the more efficient a computer becomes at converting electricity to practical computing operations. One way to improve hardware efficiency is to run the workload on as few servers as possible, with the servers running at the highest utilisation rate, maximising energy efficiency.
 
-## Static power draw
+### Static power draw
 
 An idle computer draws electricity even at zero percentage utilisation. 
 This is the static power draw of a computer. The static power draw varies by configuration and hardware components, but all parts have some static power draw. This is one of the reasons that PCs, laptops, and end-user devices have power-saving modes. If the device is idle, it will eventually trigger a hibernation mode and put the disk and screen to sleep or even change the CPU's frequency. These power-saving modes save on electricity, but they have other trade*offs, such as a slower restart when the device wakes up.
@@ -67,7 +73,8 @@ This is the static power draw of a computer. The static power draw varies by con
 Servers are usually not configured for aggressive or even minimal power-saving. Many use-cases running on servers demand total capacity as quickly as possible because the server needs to respond to rapidly changing demands, which lead to many servers in idle modes during low demand periods. An idle server costs carbon from the embedded carbon and its inefficient utilisation.
 
 ## Summary
-Green software engineers take responsibility for their application's electricity consumption and carbon emissions. We should always choose clean energy to power our applications. If clean energy is not available, we can instead strive for hardware efficiency. Use as few servers as possible and ensure that the servers are running at the highest utilisation rate. There are many tools available to measure an application's energy consumption. Calculating or estimating the energy consumption of an application is a step in the correct direction to start thinking about how an application can operate more efficiently.  
+
+Electricity is a proxy for carbon, so building an application that is energy efficient is equivalent to building an application that is carbon efficient. Green software takes responsibility for its electricity consumption and is designed to consume as little as possible. Quantifying the energy consumption of an application is a step in the correct direction to start thinking about how an application can operate more efficiently. Understanding your application's energy consumption is not the only story. The hardware your software is running on uses some of the electricity for operational overhead. This is referred to as Power Usage Efficiency (PUE) in the cloud space. The concept of energy proportionality adds another dimension of complexity since hardware becomes more efficient at turning electricity into useful operations the more it's used. Understanding all this gives green software practitioners a better understanding of how their application behaves with respect to energy consumption in the real world.
 
 Reference
 * https://principles.green/principles/electricity/
