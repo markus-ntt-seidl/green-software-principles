@@ -32,18 +32,18 @@ The software creators often do not have to bear the burden of their software's e
 
 ## Energy
 
-Energy is the ability to do work. There are many different forms of energy, such as heat, electrical and chemical. We can convert energy from one form to another. For example, we convert chemical energy from coal to electrical energy. In other words, electricity is secondary energy converted from another energy type. We can think of energy as a measure of the electricity used. The standard unit for energy is Joules (J), while the standard unit to measure energy consumption is kilowatt*hours (kWh). We will use kWh throughout the rest of this document. 
+Energy is the ability to do work. There are many different forms of energy, such as heat, electrical and chemical. We can convert energy from one form to another. For example, we convert chemical energy from coal to electrical energy. In other words, electricity is secondary energy converted from another energy type. We can think of energy as a measure of the electricity used. The standard unit for energy is Joules (J), while the standard unit to measure energy consumption is kilowatt hours (kWh). We will use kWh throughout the rest of this document. 
 
 ## Electricity
 
-Most electricity is still produced by burning fossil fuels and is responsible for 49% of the carbon emitted into the atmosphere. Fossil fuels are decomposing plants and animals containing carbon and hydrogen found in the Earth's crust, for instance, coal, oil, and natural gas. Clean energy comes from renewable, zero*emission sources that do not pollute the atmosphere when used and energy saved by energy efficiency measures. There are overlaps between clean, green and renewable energy. Here's how we can differentiate between them:
+Most electricity is still produced by burning fossil fuels and is responsible for 49% of the carbon emitted into the atmosphere. Fossil fuels are decomposing plants and animals containing carbon and hydrogen found in the Earth's crust, for instance, coal, oil, and natural gas. Clean energy comes from renewable, zero emission sources that do not pollute the atmosphere when used and energy saved by energy efficiency measures. There are overlaps between clean, green and renewable energy. Here's how we can differentiate between them:
 * Clean energy = clean air
 * Green energy = sources from nature
 * Renewable energy = recyclable sources
 
 ## Measuring energy consumption 
 
-A simple yet effective way to measure the energy consumption of an application is directly from the wall socket using a watt*hour meter. The meter measures how much electrical energy is used over time. While this measurement is for the whole device, it is easily adaptable for a single application running on the device. We can ensure that only the concerned application is running, so we can substrate the application's consumption from the total consumption of the device. As for mobile applications, there are readily available energy profilers for Android and iOS applications built into their respective development tool kits.
+A simple yet effective way to measure the energy consumption of an application is directly from the wall socket using a watt hour meter. The meter measures how much electrical energy is used over time. While this measurement is for the whole device, it is easily adaptable for a single application running on the device. We can ensure that only the concerned application is running, so we can substrate the application's consumption from the total consumption of the device. As for mobile applications, there are readily available energy profilers for Android and iOS applications built into their respective development tool kits.
 
 ## Power usage effectiveness
 
@@ -67,8 +67,4 @@ This is the static power draw of a computer. The static power draw varies by con
 Servers are usually not configured for aggressive or even minimal power-saving. Many use-cases running on servers demand total capacity as quickly as possible because the server needs to respond to rapidly changing demands, which lead to many servers in idle modes during low demand periods. An idle server costs carbon from the embedded carbon and its inefficient utilisation.
 
 ## Summary
-Green software engineers take responsibility for their application's electricity consumption and carbon emissions. We should always choose clean energy to power our applications. If clean energy is not available, we can instead strive for hardware efficiency. Use as few servers as possible and ensure that the servers are running at the highest utilisation rate. There are many tools available to measure an application's energy consumption. Calculating or estimating the energy consumption of an application is a step in the correct direction to start thinking about how an application can operate more efficiently.  
-
-Reference
-* https://principles.green/principles/electricity/
-* https://principles.green/principles/energy-proportionality/
+Green software engineers take responsibility for their application's electricity consumption and carbon emissions. We should always choose clean energy to power our applications. If clean energy is not available, we can instead strive for hardware efficiency. Use as few servers as possible and ensure that the servers are running at the highest utilisation rate. There are many tools available to measure an application's energy consumption. Calculating or estimating the energy consumption of an application is a step in the correct direction to start thinking about how an application can operate more efficiently. 

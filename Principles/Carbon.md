@@ -12,20 +12,22 @@ Build applications that are carbon efficient
 - How is weather related to climate? [Knowledge]
 - How would you summarise the impact of humans on the climate? [Comprehension]
 - Do we need green house gases? [Application]
+- What is the Green House Gas Protocol [Knowledge]
+- If you are a cloud application, which GHG scope does your energy consumption fall into? [Comprehension]
+- If you are a mobile application, which GHG scope does your energy consumption fall into? [Comprehension]
+- Discuss the pros and cons of an attributional model and a consequential model for measuring emissions? [Evaluation]
 
 ### Introduction
 
-There are lots of different ways to harness energy from our natural environment. From sustainable sources such as the sun, and unsustainable sources like carbon rich fossil fuels including coal, oil, and natural gas. Whenever we burn carbon based fuels for energy, we release carbon dioxide into the atmosphere. The contributes to global warming because carbon dioxide is a greenhouse gas that contributes to the greenhouse effect. Understanding the impact of greenhouse gases on our environment, and the relationship between energy and carbon dioxide is key to understanding the impact that software can have on the environment.
+There are lots of different ways to harness energy from our natural environment. From sustainable sources such as the sun, and unsustainable sources like carbon rich fossil fuels including coal, oil, and natural gas. Whenever we burn carbon based fuels for energy, we release carbon dioxide into the atmosphere. This contributes to global warming because carbon dioxide is a greenhouse gas that contributes to the greenhouse effect. Understanding the impact of greenhouse gases on our environment, and the relationship between energy and carbon dioxide is key to understanding the impact that software can have on the environment.
 
 ### Greenhouse gases
 
-Greenhouse gases (GHG) are a group of gases that trap heat from solar radiation in the Earth's atmosphere. These gasses act as a blanket increasing the temperature on the surface of the Earth. This is a natural phenomenon however due to man-made carbon pollution; the global climate is changing much faster than animals and plants can adapt. How human society will adapt is still an open question.
-
-For more details regarding climate change’s causes and impacts read Take the Green pill and I'll show you how deep the rabbit hole goes.
+Greenhouse gases (GHG) are a group of gases that trap heat from solar radiation in the Earth's atmosphere. These gasses act as a blanket increasing the temperature on the surface of the Earth. This is a natural phenomenon however due to man-made carbon pollution, the global climate is changing much faster than animals and plants can adapt. How human society will adapt is still an open question.
 
 There are many different GHGs. The most common is carbon dioxide (CO<sub>2</sub>). To make calculations easier we normalize all GHG numbers to carbon dioxide equivalent (CO<sub>2</sub>-eq). Cabon dioxide equivalent (CO<sub>2</sub>-eq) is a way of measuring the impact of gasses that are not CO<sub>2</sub> have on global warming potential (GWP), relative to the impact of carbon dioxide. Different gasses have different GWPs than CO<sub>2</sub> per unit of weight. For example, methane (CH<sub>4</sub>) - a common gaseous hydrocarbon, has a warming effect of 25 times that of CO2, so we say methane has a GWP of 25. CO<sub>2</sub> has a GWP of 1, since it is the gas we are normalising against. We may shorten even further to just 'carbon', which is a term often used to refer to all GHGs.
 
-Another example is sulphur hexafluoride (SF6), a manmade gas used as an electical insulator, has a GWP of 23,500. This means one metric tonne of SF6 released into the atmosphere is equivalent to 23,500 metric tonnes of CO<sub>2</sub>. CO<sub>2</sub>-eq is most commonly measured in million metric tonnes of carbon dioxide equivalent (MMTCDE).
+Another example is sulphur hexafluoride (SF6), a man-made gas used as an electical insulator, has a GWP of 23,500. This means one metric tonne of SF6 released into the atmosphere is equivalent to 23,500 metric tonnes of CO<sub>2</sub>. CO<sub>2</sub>-eq is most commonly measured in million metric tonnes of carbon dioxide equivalent (MMTCDE).
 
 ### COP
 
@@ -39,7 +41,7 @@ The Paris Climate Agreement is an international treaty agreed in 2015 by 196 par
 
 The agreement is reviewed every 5 years, and also mobilises finance to developing nations in order to mitigate impacts on climate change as well as prepare for and adapt to environmental impacts caused by climate change. Each party is expected to update its progress through a Nationally Determined Contribution (NDC). The agreement is currently signed by 193 parties.
 
-The temperature increase on the Earth is dependent on the total amount of carbonin the atmosphere, not the rate at which we are emitting. To completely halt the rate of temperature increase, we need to stop adding GHGs to the atmosphere or achieve net-zero emissions.
+The temperature increase on the Earth is dependent on the total amount of carbon in the atmosphere, not the rate at which we are emitting. To completely halt the rate of temperature increase, we need to stop adding GHGs to the atmosphere or achieve net-zero emissions.
 
 Net-zero means for each gram of CO<sub>2</sub>-eq we emit we also extract 1 gram, so the overall CO<sub>2</sub>-eq in the atmosphere remains fixed.
 
@@ -68,11 +70,61 @@ Greenhouse gasses and the greenhouse effect are crucial to all life on earth, an
 
 We also need greenhouses gases in our everyday lives. For example CO<sub>2</sub> is an important gas in many industries, including the food supply chain. The problems comes from releasing greenhouses gasses into the atmosphere in an uncontrolled way, primarily by the burning of fossil fuels.
 
-The earth has had many different compositions of greenhouse gases in its history, and natural fluctuation does occur over time (millennia). This is often refereed to as climate change, whereas global warming is separated out as the human influenced factor which has taken place over a very short period of time (decades).
+The earth has had many different compositions of greenhouse gases in its history, and natural fluctuation does occur over time (millennia). This is often referred to as climate change, whereas global warming is separated out as the human influenced factor which has taken place over a very short period of time (decades).
+
+### Software and carbon
+
+We will always emit carbon through our activities; our goal is for each gram of carbon we emit into the atmosphere to make sure we extract the most value from it as possible.
+
+To be carbon-efficient is to minimize the amount of carbon emitted per unit of work.
+
+In the software space, the part we play in the climate solution is building applications that are carbon-efficient. Being carbon-efficient is about building applications that add the same value for you or your users, but emit less carbon.
+
+### How to measure Greenhouse Gas emissions?
+
+The [Greenhouse Gas Protocol](https://ghgprotocol.org) is the most widely used and internationally recognized greenhouse gas accounting standard. In fact, [92%](https://ghgprotocol.org/about-us) of all Fortune 500 companies use the GHG protocol when calculating and disclosing their carbon emissions. 
+
+The GHG Protocol divides emissions into 3 scopes:
+
+* Scope 1: Direct emissions from operations owned or controlled by the reporting organisation, such as on-site fuel combustion or fleet vehicles.
+* Scope 2: Indirect emissions related to emission generation of purchased energy, such as heat and electricity;
+* Scope 3: Other indirect emissions from all the other activities you are engaged in. Including all emissions from an organization's supply chain, business travel for employees, and the electricity customers may consume when using your product.
+
+For many organizations Scope 3 is their most significant source of emissions and the most complex to calculate.
+
+When it comes to software energy consumption, it might not be obvious which bucket the emissions for energy fall into. For example, if you are a mobile application developer, the energy usage of your application will fall under scope 3 since it's the end-user that actually consumes the electricity. On the other hand, if you are a cloud provider, the energy use of your virtual machines will fall under scope 2 since you are purchasing the energy.
+
+#### Nesting Scopes
+
+Your scope 3 emissions are the aggregate of your supplier's scope 1 and 2, and 3 emissions. If you supply another organization, your scope 1, 2 + 3 emissions form part of their scope 3 emissions.
+
+Through this approach, it's at least theoretically possible to sum up all the GHG emissions from every organization and person in the world and reach a global total.
+
+**!Image Idea!** https://capture.dropbox.com/olhu7yVc5J7wOrVr
+
+#### Value Chain Emissions
+
+A value chain is a business model that describes the full range of activities needed to create a product or service. For companies that produce, say a laptop, this includes all the steps that bring a product from conception to distribution, such as procuring raw materials, manufacturing functions, and marketing activities.
+
+Every step in this process emits carbon emissions. For example, every raw material used in the production of the laptop emitted carbon in its extraction and processing. Value chain emissions also include emissions from the use of the laptop, so the emissions from the energy used to power the laptop after it has been sold to a customer.
+
+#### Attributional vs. Consequential
+
+The GHG Protocol is an accounting methodology. For some organizations, the Chief Financial Officer calculates their carbon emissions.
+
+To be an accounting methodology, everything needs to _sum up_ to a total. 
+
+An attributional model estimates what share of the global carbon emissions belongs to a single entity. To work, the sum total of all entities needs to equal the total. There can be no double counting. Every carbon molecule is mapped 1-to-1 to a single entity in an attributional model. An accounting methodology, therefore, needs to be attributional.
+
+A consequential model estimates the total amount of carbon reduction associated with an entity. It doesn't matter if all the potential carbon reductions add up to more carbon than the total, as there will inevitably be double counting. In a consequential model, every molecule of carbon is linked to every entity that has the capability of taking actions to remove or reduce it.
+
+You could argue that the attributional model is more accurate, but a consequential model is more impactful. One is not better than the other; both are fit for different purposes.
+
+[This whitepaper](https://www.watttime.org/app/uploads/2021/08/GHG-Frameworks-WhitePaper-Tomorrow-WattTime-202108.pdf) has more information regarding Attributional vs Consequential.
 
 ## Summary
 
-Carbon is often used as a broad term to refer to the impact of our activities on global warming. The term really refers to all greenhouse gases, but the most common of these is carbon dioxide released from burning hydrocarbon fossil fuels for the generation of energy. We can use this knowledge to calculate our individual impact on global warming. It is important to understand our impact on global warming in everything we do in our life an work in order to reduce our impacts. The global community has come together to limit the impact of global warming to 2°C compared to 'pre-industrial' levels, with a 'preferable' lower limit of 1.5°C. This was agreed through the UN IPCC in 2015 in the Paris Climate Agreement.
+Carbon is often used as a broad term to refer to the impact of our activities on global warming. The term really refers to all greenhouse gases, but the most common of these is carbon dioxide released from burning hydrocarbon fossil fuels for the generation of energy. We can use this knowledge to calculate our individual impact on global warming. It is important to understand our impact on global warming in everything we do in our life and work in order to reduce our impacts. The global community has come together to limit the impact of global warming to 2°C compared to 'pre-industrial' levels, with a 'preferable' lower limit of 1.5°C. This was agreed through the UN IPCC in 2015 in the Paris Climate Agreement.
 
 - Greenhouse gases are a group of gases that trap heat from solar radiation in the Earth's atmosphere.
 - The most common greenhouse gas is carbon dioxide (CO<sub>2</sub>).
