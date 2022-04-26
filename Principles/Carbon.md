@@ -12,6 +12,10 @@ Build applications that are carbon efficient
 - How is weather related to climate? [Knowledge]
 - How would you summarise the impact of humans on the climate? [Comprehension]
 - Do we need green house gases? [Application]
+- What is the Green House Gas Protocol [Knowledge]
+- If you are a cloud application, which GHG scope does your energy consumption fall into? [Comprehension]
+- If you are a mobile application, which GHG scope does your energy consumption fall into? [Comprehension]
+- Discuss the pros and cons of an attributional model and a consequential model for measuring emissions? [Evaluation]
 
 ### Introduction
 
@@ -75,6 +79,48 @@ We will always emit carbon through our activities; our goal is for each gram of 
 To be carbon-efficient is to minimize the amount of carbon emitted per unit of work.
 
 In the software space, the part we play in the climate solution is building applications that are carbon-efficient. Being carbon-efficient is about building applications that add the same value for you or your users, but emit less carbon.
+
+### How to measure Greenhouse Gas emissions?
+
+The [Greenhouse Gas Protocol](https://ghgprotocol.org) is the most widely used and internationally recognized greenhouse gas accounting standard. In fact, [92%](https://ghgprotocol.org/about-us) of all Fortune 500 companies use the GHG protocol when calculating and disclosing their carbon emissions. 
+
+The GHG Protocol divides emissions into 3 scopes:
+
+* Scope 1: Direct emissions from operations owned or controlled by the reporting organisation, such as on-site fuel combustion or fleet vehicles.
+* Scope 2: Indirect emissions related to emission generation of purchased energy, such as heat and electricity;
+* Scope 3: Other indirect emissions from all the other activities you are engaged in. Including all emissions from an organization's supply chain, business travel for employees, and the electricity customers may consume when using your product.
+
+For many organizations Scope 3 is their most significant source of emissions and the most complex to calculate.
+
+When it comes to software energy consumption, it might not be obvious which bucket the emissions for energy fall into. For example, if you are a mobile application developer, the energy usage of your application will fall under scope 3 since it's the end-user that actually consumes the electricity. On the other hand, if you are a cloud provider, the energy use of your virtual machines will fall under scope 2 since you are purchasing the energy.
+
+#### Nesting Scopes
+
+Your scope 3 emissions are the aggregate of your supplier's scope 1 and 2, and 3 emissions. If you supply another organization, your scope 1, 2 + 3 emissions form part of their scope 3 emissions.
+
+Through this approach, it's at least theoretically possible to sum up all the GHG emissions from every organization and person in the world and reach a global total.
+
+**!Image Idea!** https://capture.dropbox.com/olhu7yVc5J7wOrVr
+
+#### Value Chain Emissions
+
+A value chain is a business model that describes the full range of activities needed to create a product or service. For companies that produce, say a laptop, this includes all the steps that bring a product from conception to distribution, such as procuring raw materials, manufacturing functions, and marketing activities.
+
+Every step in this process emits carbon emissions. For example, every raw material used in the production of the laptop emitted carbon in its extraction and processing. Value chain emissions also include emissions from the use of the laptop, so the emissions from the energy used to power the laptop after it has been sold to a customer.
+
+#### Attributional vs. Consequential
+
+The GHG Protocol is an accounting methodology. For some organizations, the Chief Financial Officer calculates their carbon emissions.
+
+To be an accounting methodology, everything needs to _sum up_ to a total. 
+
+An attributional model estimates what share of the global carbon emissions belongs to a single entity. To work, the sum total of all entities needs to equal the total. There can be no double counting. Every carbon molecule is mapped 1-to-1 to a single entity in an attributional model. An accounting methodology, therefore, needs to be attributional.
+
+A consequential model estimates the total amount of carbon reduction associated with an entity. It doesn't matter if all the potential carbon reductions add up to more carbon than the total, as there will inevitably be double counting. In a consequential model, every molecule of carbon is linked to every entity that has the capability of taking actions to remove or reduce it.
+
+You could argue that the attributional model is more accurate, but a consequential model is more impactful. One is not better than the other; both are fit for different purposes.
+
+[This whitepaper](https://www.watttime.org/app/uploads/2021/08/GHG-Frameworks-WhitePaper-Tomorrow-WattTime-202108.pdf) has more information regarding Attributional vs Consequential.
 
 ## Summary
 
