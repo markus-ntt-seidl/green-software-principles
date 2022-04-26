@@ -74,7 +74,8 @@ This is one of the reasons why abatement is preferred. Never releasing carbon is
 
 ### Carbon Avoidance vs Carbon Removal
 Between carbon avoidance and carbon removal strategies, there are numerous debate about how one strategy should be prioritised over the other. Some may also argue that we need both on the way to net-zero as there is still a huge amount of emissions left to be avoided. And there are some kinds of emissions that are unfeasible to avoid or eliminated, thus the need for removal strategies as well. 
-[image] – example of reduction and offsetting pathway?
+
+[image idea] – example of reduction and offsetting pathway?
 
 ## Understanding different types of climate commitments
 
