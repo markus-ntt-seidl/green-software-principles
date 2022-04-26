@@ -36,7 +36,7 @@ The software creators often do not have to bear the burden of their software's e
 
 ## Energy
 
-Energy is the ability to do work. There are many different forms of energy, such as heat, electrical and chemical. We can convert energy from one form to another. For example, we convert chemical energy from coal to electrical energy. In other words, electricity is secondary energy converted from another energy type. We can think of energy as a measure of the electricity used. The standard unit for energy is Joules (J), while the standard unit to measure energy consumption is kilowatt*hours (kWh). We will use kWh throughout the rest of this document. 
+Energy is the ability to do work. There are many different forms of energy, such as heat, electrical and chemical. We can convert energy from one form to another. For example, we convert chemical energy from coal to electrical energy. In other words, electricity is secondary energy converted from another energy type. We can think of energy as a measure of the electricity used. The standard unit for energy is Joules (J), while the standard unit to measure energy consumption is kilowatt hours (kWh). We will use kWh throughout the rest of this document. 
 
 ## Electricity
 
@@ -47,7 +47,7 @@ Most electricity is still produced by burning fossil fuels. Fossil fuels are dec
 
 ## Measuring energy consumption 
 
-A simple yet effective way to measure the energy consumption of an application is directly from the wall socket using a watt*hour meter. The meter measures how much electrical energy is used over time. While this measurement is for the whole device, it is easily adaptable for a single application running on the device. We can ensure that only the concerned application is running, so we can substrate the application's consumption from the total consumption of the device. As for mobile applications, there are readily available energy profilers for Android and iOS applications built into their respective development tool kits.
+A simple yet effective way to measure the energy consumption of an application is directly from the wall socket using a watt hour meter. The meter measures how much electrical energy is used over time. While this measurement is for the whole device, it is easily adaptable for a single application running on the device. We can ensure that only the concerned application is running, so we can substrate the application's consumption from the total consumption of the device. As for mobile applications, there are readily available energy profilers for Android and iOS applications built into their respective development tool kits.
 
 ## Power usage effectiveness
 
@@ -73,9 +73,4 @@ This is the static power draw of a computer. The static power draw varies by con
 Servers are usually not configured for aggressive or even minimal power-saving. Many use-cases running on servers demand total capacity as quickly as possible because the server needs to respond to rapidly changing demands, which lead to many servers in idle modes during low demand periods. An idle server costs carbon from the embedded carbon and its inefficient utilisation.
 
 ## Summary
-
-Electricity is a proxy for carbon, so building an application that is energy efficient is equivalent to building an application that is carbon efficient. Green software takes responsibility for its electricity consumption and is designed to consume as little as possible. Quantifying the energy consumption of an application is a step in the correct direction to start thinking about how an application can operate more efficiently. Understanding your application's energy consumption is not the only story. The hardware your software is running on uses some of the electricity for operational overhead. This is referred to as Power Usage Efficiency (PUE) in the cloud space. The concept of energy proportionality adds another dimension of complexity since hardware becomes more efficient at turning electricity into useful operations the more it's used. Understanding all this gives green software practitioners a better understanding of how their application behaves with respect to energy consumption in the real world.
-
-Reference
-* https://principles.green/principles/electricity/
-* https://principles.green/principles/energy-proportionality/
+Green software engineers take responsibility for their application's electricity consumption and carbon emissions. We should always choose clean energy to power our applications. If clean energy is not available, we can instead strive for hardware efficiency. Use as few servers as possible and ensure that the servers are running at the highest utilisation rate. There are many tools available to measure an application's energy consumption. Calculating or estimating the energy consumption of an application is a step in the correct direction to start thinking about how an application can operate more efficiently.
