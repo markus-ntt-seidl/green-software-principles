@@ -71,9 +71,19 @@ It will be impossible to eliminate all emissions. There will always be some area
 
 ### Compensating / Carbon Avoidance
 
-Compensations are actions that companies take to help society avoid or reduce emissions outside of their value chain. This includes direct investment in emission reduction projects by purchasing carbon credits on the Voluntary Carbon Market.
+Compensations are actions that companies take to help society avoid or reduce emissions outside of their value chain. This includes direct investment in emission reduction projects by purchasing carbon credits on the Voluntary Carbon Market. This is essentially investing in other organizations' abatement projects.
 
-This is essentially investing in other organizations' abatement projects.
+To offset emissions, one must purchase the equivalent volume of carbon credits to compensate for them (where 1 carbon credit corresponds to 1 tonne of CO2 absorbed or reduced). These projects range from environmental conservation activities, use of renewable energy sources to efforts to remove GHG.
+Types of projects in the market:
+*	Reforestation and Conservation - Credits created based on carbon captured by new trees or carbon not released through protecting old trees. This is not the cheapest option but preferred due given its added benefit to protect the ecosystem and wildlife
+* Renewable Energy - These projects give a boost to the number of renewable energy sources available on the grid, decrease the reliance on fossil fuels and bring about socio economic benefits like creating jobs etc.
+*	Community Projects - These projects help communities around the world, particularly undeveloped ones by introducing methods of sustainable living to them via use of technology and energy-efficient methods. This indirectly empower those communities to live more sustainably and bringing in a whole load of lifestyle improvements at the same time.
+*	Waste to energy - These projects involve capturing methane/landfill gas in smaller villages, human or agriculture waste and converting it into electricity. Its additional benefit impact communities the same way as Community Projects do
+
+There are various positive benefits that stem from these projects, from ecosystem protection to empowering local communities where these projects are based, bringing a wealth of socio and economic benefits. On the flip side, if these programs are not implemented in the right way and if they do not deliver the required results, it could have a devastating impact on the whole ecosystem and the goal to reach world net zero.
+Therefore, these projects must adhere to a rigorous set of criteria in order to be certified by carbon offset standards like Verified Carbon Standard (VCS) and Gold Standard (GS).
+
+Carbon offsets should not be considered as a standalone action. Despite its benefits, organisations and individuals should look to reduce or prevent emissions as much as possible through their own activities as well.
 
 ### Neutralizing / Carbon Removal
 
@@ -109,20 +119,6 @@ Between carbon avoidance and carbon removal strategies, there are numerous debat
 [image] – example of reduction and offsetting pathway?
 
 ## Corporate Commitments
-
-### Carbon Offsets
-Carbon offsetting is the action or process to compensate GHG emissions due to organisations or individual activities via participation in programs which aims to make the equivalent carbon removal or reduction elsewhere.
-In the market currently, organisations are offering carbon offset programs which enable other companies or individuals to invest in environmental projects in order to neutralise their own carbon footprint. To offset emissions, one must purchase the equivalent volume of carbon credits to compensate for them (where 1 carbon credit corresponds to 1 tonne of CO2 absorbed or reduced). These projects range from environmental conservation activities, use of renewable energy sources to efforts to remove GHG.
-Types of projects in the market:
-*	Reforestation and Conservation - Credits created based on carbon captured by new trees or carbon not released through protecting old trees. This is not the cheapest option but preferred due given its added benefit to protect the ecosystem and wildlife
-* Renewable Energy - These projects give a boost to the number of renewable energy sources available on the grid, decrease the reliance on fossil fuels and bring about socio economic benefits like creating jobs etc.
-*	Community Projects - These projects help communities around the world, particularly undeveloped ones by introducing methods of sustainable living to them via use of technology and energy-efficient methods. This indirectly empower those communities to live more sustainably and bringing in a whole load of lifestyle improvements at the same time.
-*	Waste to energy - These projects involve capturing methane/landfill gas in smaller villages, human or agriculture waste and converting it into electricity. Its additional benefit impact communities the same way as Community Projects do
-
-There are various positive benefits that stem from these projects, from ecosystem protection to empowering local communities where these projects are based, bringing a wealth of socio and economic benefits. On the flip side, if these programs are not implemented in the right way and if they do not deliver the required results, it could have a devastating impact on the whole ecosystem and the goal to reach world net zero.
-Therefore, these projects must adhere to a rigorous set of criteria in order to be certified by carbon offset standards like Verified Carbon Standard (VCS) and Gold Standard (GS).
-
-Carbon offsets should not be considered as a standalone action. Despite its benefits, organisations and individuals should look to reduce or prevent emissions as much as possible through their own activities as well.
 
 ### Carbon Neutral
 
