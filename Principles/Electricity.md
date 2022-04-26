@@ -45,10 +45,6 @@ Most electricity is still produced by burning fossil fuels. Fossil fuels are dec
 * Green energy = sources from nature
 * Renewable energy = recyclable sources
 
-## Measuring energy consumption 
-
-A simple yet effective way to measure the energy consumption of an application is directly from the wall socket using a watt hour meter. The meter measures how much electrical energy is used over time. While this measurement is for the whole device, it is easily adaptable for a single application running on the device. We can ensure that only the concerned application is running, so we can substrate the application's consumption from the total consumption of the device. As for mobile applications, there are readily available energy profilers for Android and iOS applications built into their respective development tool kits.
-
 ## Power usage effectiveness
 
 The data center industry uses power usage effectiveness (PUE), developed by Green Grid in 2006, to measure data center energy efficiency, specifically, how much energy the computing equipment uses in contrast to cooling and other overhead supporting the equipment. Computing uses nearly all energy when a data center's PUE is close to 1.0. When PUE is 2.0, an additional watt of IT power is required to cool and distribute power to the IT equipment for every watt of IT power. 
