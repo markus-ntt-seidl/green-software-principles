@@ -1,4 +1,4 @@
-# Understanding corporate commitments
+# Climate Commitments
 
 ## Learning Objectives
 
@@ -14,6 +14,9 @@
 * What are the criteria as per the SBTi for being net-zero? [Knowledge]
 * If an organization has set this XXXX target, does it meet the criteria of being net-zero? [Evaluation]
 
+## Introduction
+In recent years, many economic actors are seeking to reach different climate goals by making various commitments. The terms “net zero”, “carbon neutral”, “carbon negative” and “climate neutral” have been used interchangeably with the main objective to remove, reduce and/or prevent carbon emissions. As interests for these net zero targets grow, it is also important to have a common understanding of what each of them mean and how to get there. These terms although similar, have subtle differences.
+
 ## How to reduce carbon emissions?
 
 There are many ways to reduce emissions, so it's essential when discussing reducing emissions to achieve targets to understand the exact *mechanism* of the reduction.
@@ -26,13 +29,30 @@ It will be impossible to eliminate all emissions. There will always be some area
 
 ### Compensating / Carbon Avoidance
 
-Compensations are actions that companies take to help society avoid or reduce emissions outside of their value chain. This includes direct investment in emission reduction projects by purchasing carbon credits on the Voluntary Carbon Market.
+Compensations are actions that companies take to help society avoid or reduce emissions outside of their value chain. This includes direct investment in emission reduction projects by purchasing carbon credits on the Voluntary Carbon Market. This is essentially investing in other organizations' abatement projects.
 
-This is essentially investing in other organizations' abatement projects.
+To offset emissions, one must purchase the equivalent volume of carbon credits to compensate for them (where 1 carbon credit corresponds to 1 tonne of CO2 absorbed or reduced). These projects range from environmental conservation activities, use of renewable energy sources to efforts to remove GHG.
+Types of projects in the market:
+*	Reforestation and Conservation - Credits created based on carbon captured by new trees or carbon not released through protecting old trees. This is not the cheapest option but preferred due given its added benefit to protect the ecosystem and wildlife
+* Renewable Energy - These projects give a boost to the number of renewable energy sources available on the grid, decrease the reliance on fossil fuels and bring about socio economic benefits like creating jobs etc.
+*	Community Projects - These projects help communities around the world, particularly undeveloped ones by introducing methods of sustainable living to them via use of technology and energy-efficient methods. This indirectly empower those communities to live more sustainably and bringing in a whole load of lifestyle improvements at the same time.
+*	Waste to energy - These projects involve capturing methane/landfill gas in smaller villages, human or agriculture waste and converting it into electricity. Its additional benefit impact communities the same way as Community Projects do
+
+There are various positive benefits that stem from these projects, from ecosystem protection to empowering local communities where these projects are based, bringing a wealth of socio and economic benefits. On the flip side, if these programs are not implemented in the right way and if they do not deliver the required results, it could have a devastating impact on the whole ecosystem and the goal to reach world net zero.
+Therefore, these projects must adhere to a rigorous set of criteria in order to be certified by carbon offset standards like Verified Carbon Standard (VCS) and Gold Standard (GS).
+
+Carbon offsets should not be considered as a standalone action. Despite its benefits, organisations and individuals should look to reduce or prevent emissions as much as possible through their own activities as well.
 
 ### Neutralizing / Carbon Removal
 
-Neutralizations are actions that companies take to remove carbon from the atmosphere within or beyond their value chain. Neutralizations refer to the removal and **permanent storage** of atmospheric carbon to counterbalance the effect of releasing CO2 into the atmosphere. This includes actions such as restoring natural carbon sinks via actions like soil sequestration or engineered solutions like direct air capture.
+Neutralizations are actions that companies take to remove carbon from the atmosphere within or beyond their value chain. Neutralizations refer to the removal and **permanent storage** of atmospheric carbon to counterbalance the effect of releasing CO2 into the atmosphere. This includes actions such as:
+*	Enhancing natural carbon sinks that remove CO2 from the atmosphere. For example, forest restoration since photosynthesis removes CO2 naturally. Forest expansion comes with its own challenges as it’s important to not impact the dynamics of farmland and food supply elsewhere. Modern farming methods can also prolong the time carbon remain stored in soil
+* Bio-energy with Carbon Capture and Storage is the process of using biomass for energy by capturing emissions before they are released back to the atmosphere and storing them either underground or in long-lived products like concrete. It complications though lie in its dependencies on the ideal conditions being met and accounting has to be right
+*	Direct Air Capture is the process of capturing CO2 from the air and storing it. This method removes excess carbon that has already been emitted directly from the atmosphere instead of capturing it at the source
+*	Carbon Mineralization
+*	Ocean based concepts by restoring coastal and marine habitats. This will ensure CO2 are drawn from the air
+
+The effectiveness of these methods are normally measured based on whether they can deliver carbon removal at the scale and speed needed. 
 
 #### Durability
 
@@ -52,7 +72,12 @@ A short-term carbon removal project will only remove carbon for 100 years, after
 
 This is one of the reasons why abatement is preferred. Never releasing carbon is far better than releasing carbon and then trying to keep it out of the atmosphere for 5000 years.
 
-## Corporate Commitments
+### Carbon Avoidance vs Carbon Removal
+Between carbon avoidance and carbon removal strategies, there are numerous debate about how one strategy should be prioritised over the other. Some may also argue that we need both on the way to net-zero as there is still a huge amount of emissions left to be avoided. And there are some kinds of emissions that are unfeasible to avoid or eliminated, thus the need for removal strategies as well. 
+
+[image idea] – example of reduction and offsetting pathway?
+
+## Understanding different types of climate commitments
 
 ### Carbon Neutral
 
