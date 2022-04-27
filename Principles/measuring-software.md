@@ -36,7 +36,7 @@ For software, regardless of whether it's run on infrastructure you own, rent, or
 
 ### Is it possible to calculate a total for software carbon emissions?
 
-To calculate a total, you need access to detailed data regarding the energy consumption, the carbon intensity, and the hardware your software is running on. This is challenging data to gather, even for an organization's own closed source software products where they can track its usage with telemetry or logs. Open-source software maintainers don't have the same visibility into how and where their software is used, how much energy is consumed and on what hardware.
+To calculate a total for software carbon emissions, you need access to detailed data regarding the energy consumption, the carbon intensity, and the hardware your software is running on. This is challenging data to gather, even for an organization's own closed source software products where they can track its usage with telemetry or logs. Open-source software maintainers don't have the same visibility into how and where their software is used, how much energy is consumed and on what hardware.
 
 Open source projects typically have multiple contributors from multiple organizations. As a result, the responsibility of calculating the emissions is not clear, and neither is it clear who is accountable for eliminating emissions. When you also consider that open source software makes up 90% of a typical enterprise stack, that's a large amount of carbon emissions not accounted for.
 
