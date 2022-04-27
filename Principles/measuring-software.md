@@ -34,7 +34,7 @@ Similarly, for your customer facing front end application the energy usage falls
 
 For software, regardless of whether it's run on infrastructure you own, rent, or consumers own, only three emissions categories are important to software teams. How much energy it consumes, how clean or dirty that electricity is, and how much hardware it needs to function. Those are the three categories where it's helpful to bucket emissions from the software perspective.
 
-### Is it possible to calculate a total?
+### Is it possible to calculate a total for software carbon emissions?
 
 To calculate a total, you need access to detailed data regarding the energy consumption, the carbon intensity, and the hardware your software is running on. This is challenging data to gather, even for an organization's own closed source software products where they can track its usage with telemetry or logs. Open-source software maintainers don't have the same visibility into how and where their software is used, how much energy is consumed and on what hardware.
 
