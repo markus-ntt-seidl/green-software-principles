@@ -14,7 +14,7 @@
 * Can you complete this example SCI calculation? [Synthesis]
 * Given this SCI calculation, would you focus more on energy efficiency or on reducing the amount of hardware the Application uses? [Synthesis]
 
-## Measuring software using the GHG protocol
+## Measuring software using the Greenhouse Gas protocol
 
 The Greenhouse Gas (GHG) protocol is the most common method organizations use to measure their carbon emissions.
 
