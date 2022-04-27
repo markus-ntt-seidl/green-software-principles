@@ -16,7 +16,7 @@
 
 ## Measuring software using the GHG protocol
 
-The GHG protocol is the most common method organizations use to measure their carbon emissions.
+The Greenhouse Gas (GHG) protocol is the most common method organizations use to measure their carbon emissions.
 
 ### What scope does my application fall in?
 
