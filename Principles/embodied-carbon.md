@@ -1,7 +1,7 @@
 # Embodied Carbon 
 Build applications that are hardware efficient
 
-## Learning Objectives
+<!-- ## Learning Objectives
 
 ### Embodied Carbon 
 * What is embodied carbon? [Knowledge]
@@ -16,7 +16,7 @@ Build applications that are hardware efficient
 * What is private cloud? [Knowledge]
 * What would you do to reduce embodied carbon of hardware when using a public cloud provider? [Application]
 * What would you do to reduce embodied carbon of hardware in an on-premises data centre (a.k.a private cloud) setup? [Application]
-* Can you explain why embodied carbon is considered more significant than the carbon emitted during executions (i.e. electricity drawn when running software)? [Comprehension]
+* Can you explain why embodied carbon is considered more significant than the carbon emitted during executions (i.e. electricity drawn when running software)? [Comprehension] -->
 
 ## Introduction
 
