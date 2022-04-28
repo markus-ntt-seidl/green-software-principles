@@ -10,14 +10,13 @@ Green Software Engineering is an emerging discipline at the intersection of clim
 Through understanding, a Green Software Engineer can make decisions that have a meaningful impact on the carbon pollution of their applications.
 
 ## What is Green Software
-<Image Idea: TODO- need to upload>
 Green Software is software that emits less carbon when running. It falls into two categories- carbon-efficient software and carbon-aware software. Green Sofware Engineer can build carbon-aware software by changing the behaviours of the software, so the software itself is responsible for emitting less carbon. On the other hand, a Green Software Engineer can build carbon-efficient software by designing software that requires less electricity and fewer machines. 
 
 ## Who should read this? 
 Anyone working with technology.
 
 ## About this version 
-This version of the Principles extends the knowledge on carbon, electricity, carbon intensity and embodied carbon while adding sections on neutralisations and measurement to introduce Software Carbon Intensity Specification (https://github.com/Green-Software-Foundation/software_carbon_intensity). This specification describes how to calculate a carbon intensity for software applications.
+This version of the Principles extends the knowledge on carbon, electricity, carbon intensity and embodied carbon while adding sections on neutralisations and measurement to introduce [Software Carbon Intensity (SCI) Specification](https://github.com/Green-Software-Foundation/software_carbon_intensity). This specification describes how to calculate a carbon intensity for software applications.
 
 ## Summary
 1. Carbon: Build carbon-efficient applications.

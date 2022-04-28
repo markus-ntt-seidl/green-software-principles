@@ -1,6 +1,6 @@
 # Climate Commitments
 
-## Learning Objectives
+<!-- ## Learning Objectives
 
 * What are neutralizations? [Knowledge]
 * How would you compare neutralizations with reductions [Comprehension]
@@ -12,7 +12,7 @@
 * How can you judge the quality of a neutralization? [Evaluation]
 * What are the minimum criteria for being carbon neutral? [Knowledge]
 * What are the criteria as per the SBTi for being net-zero? [Knowledge]
-* If an organization has set this XXXX target, does it meet the criteria of being net-zero? [Evaluation]
+* If an organization has set this XXXX target, does it meet the criteria of being net-zero? [Evaluation] -->
 
 ## Introduction
 In recent years, many economic actors are seeking to reach different climate goals by making various commitments. The terms “net zero”, “carbon neutral”, “carbon negative” and “climate neutral” have been used interchangeably with the main objective to remove, reduce and/or prevent carbon emissions. As interests for these net zero targets grow, it is also important to have a common understanding of what each of them mean and how to get there. These terms although similar, have subtle differences.

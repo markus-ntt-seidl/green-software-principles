@@ -1,7 +1,7 @@
 # Electricity 
 Build applications that are energy efficient
 
-## Learning Objectives
+<!-- ## Learning Objectives
 
 ### Electricity
 * What is Electricity? [Knowledge]
@@ -22,7 +22,7 @@ Build applications that are energy efficient
 * What is the relationship between power and utilisation? [Knowledge]
 * What is hardware efficiency? [Knowledge]
 * What is static power draw? [Knowledge]
-* What is the most efficient and green approach to run a workload? [Comprehension]
+* What is the most efficient and green approach to run a workload? [Comprehension] -->
 
 ## Introduction
 

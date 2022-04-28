@@ -2,7 +2,7 @@
 
 Build applications that are carbon efficient
 
-## Learning Objectives
+<!-- ## Learning Objectives
 
 - What are Green House Gases? [Knowledge]
 - What is (CO<sub>2</sub>-eq)? [Knowledge]
@@ -15,7 +15,7 @@ Build applications that are carbon efficient
 - What is the Green House Gas Protocol [Knowledge]
 - If you are a cloud application, which GHG scope does your energy consumption fall into? [Comprehension]
 - If you are a mobile application, which GHG scope does your energy consumption fall into? [Comprehension]
-- Discuss the pros and cons of an attributional model and a consequential model for measuring emissions? [Evaluation]
+- Discuss the pros and cons of an attributional model and a consequential model for measuring emissions? [Evaluation] -->
 
 ### Introduction
 
