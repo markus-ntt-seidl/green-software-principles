@@ -1,6 +1,6 @@
 # Carbon Intensity of Electricity
 
-## Learning Objectives
+<!-- ## Learning Objectives
 
 ### Carbon Intensity
 
@@ -14,7 +14,7 @@
 * Can you describe a scenario when marginal carbon intensity reaches 0? [Comprehension]
 * What is demand shifting? [Knowledge]
 * Why would you consider shifting demand for your application? [Knowledge]
-* Can you describe a scenario where demand shifting can affect the carbon intensity of electricity for your application? [Comprehension]
+* Can you describe a scenario where demand shifting can affect the carbon intensity of electricity for your application? [Comprehension] 
 
 ### Demand Shaping
 
@@ -25,7 +25,7 @@
 * Can you list at least 1 data source and one potential tool that you can utilize to build a carbon-aware application? [Knowledge]
 * Why is making your application carbon-efficient may not be enough? [Comprehension]
 * What types of applications and features would you consider making carbon aware? [Application]
-* Can you explain how carbon awareness can help power grids transition towards 100% renewable power? [Comprehension]
+* Can you explain how carbon awareness can help power grids transition towards 100% renewable power? [Comprehension]-->
 
 ## Introduction
 
@@ -40,9 +40,9 @@ Not all electricity is produced in the same way. In different locations and time
 
 The standard unit of carbon intensity is gCO2eq/kWh or grams of carbon per kilowatt-hour.
 
-If your computer is plugged directly into a wind farm, then the electricity it consumes would have a carbon intensity of 0 gCO2eq/kWh since a wind farm emits no carbon to produce that electricity. However, most people can't plug directly into wind farms; instead, they plug into power grids supplied with electricity from various sources. 
+If your computer is plugged directly into a wind farm, then its electricity would have a carbon intensity of 0 gCO2eq/kWh since a wind farm emits no carbon to produce that electricity. However, most people can't plug directly into wind farms; instead, they plug into power grids supplied with electricity from various sources. 
 
-Once on a grid, you can't control which electrons are flowing into your computer; you are getting a mix of everything. So your carbon intensity will be a mix of all the current power sources into a grid, the lower carbon and the higher carbon sources.
+Once on a grid, you can't control which sources supply electricity; you are getting a mix of everything. So your carbon intensity will be a mix of all the current power sources in a grid, the lower carbon and the higher carbon sources.
 
 
 ## Variability of Carbon Intensity
@@ -58,7 +58,7 @@ Once on a grid, you can't control which electrons are flowing into your computer
 
 ## Balancing Supply and Demand
 
-Electricity demand varies during the day, that demand needs to be met by supply. There is a brownout if a utility doesn't produce enough electricity to meet demand. Suppose a utility produces more electricity than is required then to stop infrastructure burning out breakers trip and we have blackouts. There needs to be a balance between the demand and supply of electricity at every moment. Who has responsibility for this differs between electricity grids, but we will say it's the utility provider for simplicity.
+Electricity demand varies during the day, and that demand needs to be met by supply. If a utility doesn't produce enough electricity to meet demand, there is a brownout. Suppose a utility produces more electricity than is required, then stop infrastructure burning out breakers trip, and we have blackouts. There needs to be a balance between the demand and supply of electricity at every moment. Who has responsibility for this differs between electricity grids, but it's the utility provider for simplicity.
 
 
 ### Dispatchability & Curtailment
@@ -81,7 +81,7 @@ Fossil-fueled power plants rarely scale down to 0. They have a minimum functioni
 The marginal carbon intensity will be 0 gCO2eq/kWh in these situations since we know that any new demand will match the renewable energy we are curtailing. 
 
 
-## Calculating Carbon Intensity
+<!-- ## Calculating Carbon Intensity
 
 Several services allow you to obtain real-time and predicted data regarding the carbon intensity of different electricity grids. Some provide estimates of future carbon intensity, and some provide the marginal carbon intensity.
 
@@ -89,7 +89,7 @@ Several services allow you to obtain real-time and predicted data regarding the 
 
 * Carbon Intensity API: Free resource for carbon intensity data in the UK.
 * ElectricityMap: Free for non-commercial single country use, premium solutions for commercial and multi-country access.
-* WattTime: Free for a single grid region, premium solutions for multi-grid, and real-time marginal emissions.
+* WattTime: Free for a single grid region, premium solutions for multi-grid, and real-time marginal emissions. -->
 
 
 ## How Electricity is Bought and Sold
@@ -98,7 +98,7 @@ The exact market model varies around the world but roughly works like so:
 
 [IMAGE]
 
-When the demand for electricity goes down, Utilities need to **reduce** the supply to balance supply and demand. Therefore, they have two choices in order of preference:
+When the demand for electricity goes down, utilities need to **reduce** the supply to balance supply and demand. Therefore, they have two choices in order of preference:
 
 
 
@@ -193,9 +193,9 @@ Demand shaping carbon-aware applications is all about the supply of carbon. When
 
 ### Eco-modes / Performance-modes
 
-Eco-modes are often used in life: for instance, in cars or washing machines. When switched on, the performance changes as they consume fewer resources (gas/electricity) to perform the same task. However, it's not cost-free (otherwise, we would always choose eco-modes), so we make trade-offs. Because it's a trade-off, eco-modes are often presented to a user as a choice. The user decides to go with it and accept the compromises.
+Eco-modes are often used in everyday life: for instance, in cars or washing machines. When switched on, the performance changes as they consume fewer resources (gas/electricity) to perform the same task. However, it's not cost-free (otherwise, we would always choose eco-modes), so we make trade-offs. Because it's a trade-off, eco-modes are often presented to a user as a choice. The user decides to go with it and accept the compromises.
 
-Software applications can also have eco-modes which, when engaged, changes application behavior in potentially two ways:
+Software applications can also have eco-modes that, when engaged, change application behavior in potentially two ways:
 
 
 
